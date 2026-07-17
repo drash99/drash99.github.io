@@ -1,0 +1,1 @@
+import{j as a}from"./ErrorBoundary-D2sBHtV6.js";function s({children:e}){return a.jsx("div",{className:"min-h-screen bg-gray-50 text-gray-900 p-4 pt-[max(1rem,env(safe-area-inset-top))] pb-[max(1rem,env(safe-area-inset-bottom))]",children:a.jsx("main",{className:"max-w-5xl mx-auto",children:e})})}export{s as S};
